@@ -17,6 +17,7 @@ Nefis Yemek Tarifleri (nefisyemektarifleri.com)
 
 Uygulama Adresi:
 
+Grup Adı: StormBorn
 
 Proje Ekibi:
 Zeynep Akbaş
