@@ -15,7 +15,7 @@ Mobil Uygulama / Yemek Tarifleri Paylaşımı
 Referans Uygulama:
 Nefis Yemek Tarifleri (nefisyemektarifleri.com)
 
-Uygulama Adresi:
+Uygulama Adresi: Henüz yayınlanmadı
 
 Grup Adı: StormBorn
 
