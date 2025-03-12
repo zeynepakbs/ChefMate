@@ -20,3 +20,19 @@ Grup Adı: StormBorn
 
 Proje Ekibi:
 Zeynep Akbaş
+#Gereksimler
+1. Üye ol
+2. Giriş yap
+3. Şifremi unuttum
+4. Profil düzenleme
+5. Profil görüntüleme
+6. Hesap silme
+7. Yemek arama
+8. Tarif kısmı
+9. Favori yemek ekleme
+10. Tarif defteri
+11. Yemek püf noktası sunma
+12. Deftere tarif ekleme
+13. Malzeme listesi
+14. Yemek kategorileri
+15. Yemek görseli ekleme
