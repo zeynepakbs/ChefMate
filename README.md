@@ -18,9 +18,8 @@ Uygulama Adresi: Henüz yayınlanmadı
 
 Grup Adı: StormBorn
 
-Proje Ekibi:
-Zeynep Akbaş
-#Gereksimler
+Proje Ekibi: Zeynep Akbaş
+# Gereksimler
 1. Üye ol
 2. Giriş yap
 3. Şifremi unuttum
